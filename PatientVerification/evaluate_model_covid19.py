@@ -26,7 +26,7 @@ transform = transforms.Compose([
 
 # Load the model and its state dict
 model = SiameseNetwork(network='ResNet-50', in_channels=3, n_features=128).cuda()
-model.load_state_dict(torch.load('./trained_models/verification_approach_final_model.pth'))
+model.load_state_dict(torch.load('/kaggle/input/checkpoint-mhud/checkpoint/veri/verification_approach_final_model.pth'))
 
 # Define the data set and the corresponding data loader
 test_set = SiameseDatasetCovid19(phase='testing', n_channels=3, n_samples=792294, transform=transform,
