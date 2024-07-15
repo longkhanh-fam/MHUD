@@ -26,10 +26,10 @@ transform = transforms.Compose([
 # Load the pre-trained model
 if torch.cuda.is_available():
     model = SiameseNetwork(network='ResNet-50', in_channels=3, n_features=128).cuda()
-    model.load_state_dict(torch.load('./trained_models/verification_approach_final_model.pth'))
+    model.load_state_dict(torch.load('/kaggle/input/checkpoint-mhud/checkpoint/veri/verification_approach_final_model.pth'))
 else:
     model = SiameseNetwork(network='ResNet-50', in_channels=3, n_features=128)
-    model.load_state_dict(torch.load('./trained_models/verification_approach_final_model.pth', map_location='cpu'))
+    model.load_state_dict(torch.load('/kaggle/input/checkpoint-mhud/checkpoint/veri/verification_approach_final_model.pth', map_location='cpu'))
 
 # Load the data
 test_loader = Utils.get_data_loaders(phase='testing', data_handling='balanced', n_channels=3, n_samples=n_samples,
