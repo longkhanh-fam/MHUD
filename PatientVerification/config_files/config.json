@@ -4,7 +4,7 @@
 	"resumption_count": null,
 	"previous_experiment": null,
 
-	"image_path": "/path_to_the_dataset/ChestX-ray8/images/images/",
+	"image_path": "covid-chestxray-dataset/images/",
 
 	"siamese_architecture": "ResNet-50",
 	"data_handling": "balanced",
