@@ -4,7 +4,7 @@
 	"resumption_count": null,
 	"previous_experiment": null,
 
-	"image_path": "/kaggle/working/covid-chestxray-dataset",
+	"image_path": "/kaggle/working/covid-chestxray-dataset/images/",
 
 	"siamese_architecture": "ResNet-50",
 	"data_handling": "balanced",
