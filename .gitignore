@@ -1,0 +1,11 @@
+.idea
+__pycache__
+
+PatientVerification/archive/*
+!PatientVerification/archive/.gitkeep
+
+PatientRetrieval/logs/*
+!PatientRetrieval/logs/.gitkeep
+
+PatientRetrieval/outputs/*
+!PatientRetrieval/outputs/.gitkeep
