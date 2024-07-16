@@ -73,9 +73,20 @@ class SiameseDataset(data.Dataset):
         return len(self.image_pairs)
 
     def __getitem__(self, index):
+        data = pd.read_csv('/kaggle/input/data/Data_Entry_2017.csv')
+        data = data[data['Patient Age']<100] #removing datapoints which having age greater than 100
+        data_image_paths = {os.path.basename(x): x for x in 
+                        glob(os.path.join('/kaggle/input', 'data', 'images*', '*', '*.png'))}
+        print('Scans found:', len(data_image_paths), ', Total Headers', data.shape[0])
+        data.set_index('Image Index', inplace=True)
+        data['path'] = data['Image Index'].map(data_image_paths.get)
+        image1 = self.image_pairs[index][0]
+        image2 = self.image_pairs[index][1]
+        path1 = data.loc[image1, 'path']
+        path2 = data.loc[image2, 'path']
 
-        x1 = pil_loader(self.PATH + self.image_pairs[index][0], self.n_channels)
-        x2 = pil_loader(self.PATH + self.image_pairs[index][1], self.n_channels)
+        x1 = pil_loader(path1, self.n_channels)
+        x2 = pil_loader(path2, self.n_channels)
 
         if self.transform is not None:
             x1 = self.transform(x1)
