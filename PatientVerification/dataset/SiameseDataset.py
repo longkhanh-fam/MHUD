@@ -80,10 +80,11 @@ class SiameseDataset(data.Dataset):
         data_image_paths = {os.path.basename(x): x for x in 
                         glob(os.path.join('/kaggle/input', 'data', 'images*', '*', '*.png'))}
         print('Scans found:', len(data_image_paths), ', Total Headers', data.shape[0])
-        data.set_index('Image Index', inplace=True)
+        
         data['path'] = data['Image Index'].map(data_image_paths.get)
         image1 = self.image_pairs[index][0]
         image2 = self.image_pairs[index][1]
+        data.set_index('Image Index', inplace=True)
         path1 = data.loc[image1, 'path']
         path2 = data.loc[image2, 'path']
 
