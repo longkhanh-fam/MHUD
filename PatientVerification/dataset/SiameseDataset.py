@@ -76,10 +76,10 @@ class SiameseDataset(data.Dataset):
 
     def __getitem__(self, index):
         data = pd.read_csv('/kaggle/input/data/Data_Entry_2017.csv')
-        data = data[data['Patient Age']<100] #removing datapoints which having age greater than 100
+        
         data_image_paths = {os.path.basename(x): x for x in 
                         glob(os.path.join('/kaggle/input', 'data', 'images*', '*', '*.png'))}
-        print('Scans found:', len(data_image_paths), ', Total Headers', data.shape[0])
+        #print('Scans found:', len(data_image_paths), ', Total Headers', data.shape[0])
         
         data['path'] = data['Image Index'].map(data_image_paths.get)
         image1 = self.image_pairs[index][0]
