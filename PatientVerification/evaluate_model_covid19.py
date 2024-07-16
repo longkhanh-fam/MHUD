@@ -11,10 +11,11 @@ import argparse
 
 parser = argparse.ArgumentParser('Evaluate Trained Model  On Covid Data')
 parser.add_argument('--image_path', help='the path where the images are stored')
+parser.add_argument('--model_path', help='the path where the checkpoint of model is stored')
 args = parser.parse_args()
 
 image_path = args.image_path
-
+model_path = args.model_path
 # Define some important parameters
 image_size = 256
 n_samples = 1548
@@ -26,7 +27,7 @@ transform = transforms.Compose([
 
 # Load the model and its state dict
 model = SiameseNetwork(network='ResNet-50', in_channels=3, n_features=128).cuda()
-model.load_state_dict(torch.load('/kaggle/input/checkpoint-mhud/checkpoint/veri/verification_approach_final_model.pth'))
+model.load_state_dict(torch.load(model_path))
 
 # Define the data set and the corresponding data loader
 test_set = SiameseDatasetCovid19(phase='testing', n_channels=3, n_samples=792294, transform=transform,
