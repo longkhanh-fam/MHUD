@@ -39,15 +39,15 @@ y_true, y_pred = Utils.test(model, test_loader)
 y_true, y_pred = [y_true.numpy(), y_pred.numpy()]
 
 # Compute the evaluation metrics!
-fp_rates, tp_rates, thresholds = metrics.roc_curve(y_true, y_pred)
-auc = metrics.roc_auc_score(y_true, y_pred)
+# fp_rates, tp_rates, thresholds = metrics.roc_curve(y_true, y_pred)
+#auc = metrics.roc_auc_score(y_true, y_pred)
 y_pred_thresh = Utils.apply_threshold(y_pred, 0.5)
 accuracy, f1_score, precision, recall, report, confusion_matrix = Utils.get_evaluation_metrics(y_true, y_pred_thresh)
-Utils.save_results_to_file(auc, accuracy, f1_score, precision, recall, report, confusion_matrix, './archive/', 'covid')
+# Utils.save_results_to_file(auc, accuracy, f1_score, precision, recall, report, confusion_matrix, './archive/', 'covid')
 
 # Print the evaluation metrics!
 print('EVALUATION METRICS:')
-print('AUC: ' + str(auc))
+# print('AUC: ' + str(auc))
 print('Accuracy: ' + str(accuracy))
 print('F1-Score: ' + str(f1_score))
 print('Precision: ' + str(precision))
@@ -56,10 +56,10 @@ print('Report: ' + str(report))
 print('Confusion matrix: ' + str(confusion_matrix))
 
 # Plot ROC curve
-plt.figure()
-plt.plot(fp_rates, tp_rates, label='ROC Curve')
-plt.xlabel('False positive rate')
-plt.ylabel('True positive rate')
-plt.title('ROC Curve')
-plt.legend()
-plt.savefig('./archive/trained_model_ROC_curve_covid.png')
+# plt.figure()
+# plt.plot(fp_rates, tp_rates, label='ROC Curve')
+# plt.xlabel('False positive rate')
+# plt.ylabel('True positive rate')
+# plt.title('ROC Curve')
+# plt.legend()
+# plt.savefig('./archive/trained_model_ROC_curve_covid.png')
