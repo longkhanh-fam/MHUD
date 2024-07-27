@@ -1,0 +1,185 @@
+Image Index,Finding Labels,Follow-up #,Patient ID,Patient Age,Patient Gender,View Position,OriginalImage[Width,Height],OriginalImagePixelSpacing[x,y],Unnamed: 11,path
+00010007_000.png,No Finding,0,10007,57,M,PA,2992,2991,0.143,0.143,,/kaggle/input/data/images_005/images/00010007_000.png
+00010007_001.png,No Finding,1,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_001.png
+00010007_002.png,Infiltration,2,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_002.png
+00010007_003.png,Edema,3,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_003.png
+00010007_004.png,Edema|Effusion|Infiltration,4,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_004.png
+00010007_005.png,Pleural_Thickening,5,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_005.png
+00010007_006.png,Effusion,6,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_006.png
+00010007_007.png,Effusion,7,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_007.png
+00010007_008.png,Edema|Infiltration,8,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_008.png
+00010007_009.png,No Finding,9,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_009.png
+00010007_010.png,Infiltration,10,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_010.png
+00010007_011.png,No Finding,11,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_011.png
+00010007_012.png,Infiltration|Mass,12,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_012.png
+00010007_013.png,Infiltration|Mass,13,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_013.png
+00010007_014.png,Consolidation,14,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_014.png
+00010007_015.png,Pleural_Thickening,15,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_015.png
+00010007_016.png,Consolidation,16,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_016.png
+00010007_017.png,Consolidation|Edema|Effusion|Mass|Nodule,17,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_017.png
+00010007_018.png,No Finding,18,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_018.png
+00010007_019.png,Infiltration|Mass,19,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_019.png
+00010007_020.png,No Finding,20,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_020.png
+00010007_021.png,Consolidation|Infiltration,21,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_021.png
+00010007_022.png,No Finding,22,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_022.png
+00010007_023.png,Atelectasis|Consolidation,23,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_023.png
+00010007_024.png,Infiltration|Mass,24,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_024.png
+00010007_025.png,No Finding,25,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_025.png
+00010007_026.png,Pleural_Thickening,26,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_026.png
+00010007_027.png,Atelectasis|Effusion|Infiltration|Pleural_Thickening,27,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_027.png
+00010007_028.png,Infiltration,28,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_028.png
+00010007_029.png,Atelectasis|Effusion|Infiltration,29,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_029.png
+00010007_030.png,Effusion|Infiltration|Mass,30,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_030.png
+00010007_031.png,Effusion,31,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_031.png
+00010007_032.png,No Finding,32,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_032.png
+00010007_033.png,Effusion|Infiltration,33,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_033.png
+00010007_034.png,Pleural_Thickening,34,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_034.png
+00010007_035.png,Effusion|Infiltration,35,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_035.png
+00010007_036.png,Pleural_Thickening,36,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_036.png
+00010007_037.png,Pleural_Thickening,37,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_037.png
+00010007_038.png,Consolidation,38,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_038.png
+00010007_039.png,Infiltration,39,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_039.png
+00010007_040.png,No Finding,40,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_040.png
+00010007_041.png,Atelectasis|Consolidation|Effusion|Infiltration,41,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_041.png
+00010007_042.png,Atelectasis|Consolidation|Effusion|Infiltration,42,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_042.png
+00010007_043.png,Cardiomegaly|Consolidation|Pleural_Thickening,43,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_043.png
+00010007_044.png,Consolidation|Pleural_Thickening,44,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_044.png
+00010007_045.png,Pleural_Thickening,45,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_045.png
+00010007_046.png,Consolidation|Infiltration,46,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_046.png
+00010007_047.png,No Finding,47,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_047.png
+00010007_048.png,Infiltration|Pleural_Thickening|Pneumothorax,48,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_048.png
+00010007_049.png,Edema|Infiltration,49,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_049.png
+00010007_050.png,Mass,50,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_050.png
+00010007_051.png,Consolidation|Infiltration|Mass,51,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_051.png
+00010007_052.png,No Finding,52,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_052.png
+00010007_053.png,No Finding,53,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_053.png
+00010007_054.png,Effusion|Infiltration|Pneumothorax,54,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_054.png
+00010007_055.png,Effusion|Infiltration|Pneumothorax,55,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_055.png
+00010007_056.png,Effusion|Infiltration|Pneumothorax,56,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_056.png
+00010007_057.png,Pleural_Thickening,57,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_057.png
+00010007_058.png,Pleural_Thickening,58,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_058.png
+00010007_059.png,Edema|Pleural_Thickening,59,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_059.png
+00010007_060.png,Edema|Pleural_Thickening,60,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_060.png
+00010007_061.png,Edema|Pleural_Thickening,61,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_061.png
+00010007_062.png,Effusion|Infiltration|Pleural_Thickening,62,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_062.png
+00010007_063.png,Effusion|Infiltration,63,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_063.png
+00010007_064.png,No Finding,64,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_064.png
+00010007_065.png,Effusion|Infiltration|Pleural_Thickening,65,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_065.png
+00010007_066.png,Cardiomegaly,66,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_066.png
+00010007_067.png,Pleural_Thickening,67,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_067.png
+00010007_068.png,Effusion,68,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_068.png
+00010007_069.png,No Finding,69,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_069.png
+00010007_070.png,No Finding,70,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_070.png
+00010007_071.png,Effusion|Infiltration,71,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_071.png
+00010007_072.png,Effusion,72,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_072.png
+00010007_073.png,Effusion,73,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_073.png
+00010007_074.png,No Finding,74,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_074.png
+00010007_075.png,Atelectasis|Effusion|Infiltration|Mass,75,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_075.png
+00010007_076.png,Atelectasis|Consolidation|Infiltration,76,10007,58,M,AP,2048,2500,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_076.png
+00010007_077.png,Effusion,77,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_077.png
+00010007_078.png,Infiltration,78,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_078.png
+00010007_079.png,Atelectasis|Effusion|Infiltration,79,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_079.png
+00010007_080.png,Cardiomegaly,80,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_080.png
+00010007_081.png,No Finding,81,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_081.png
+00010007_082.png,No Finding,82,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_082.png
+00010007_083.png,No Finding,83,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_083.png
+00010007_084.png,Infiltration|Nodule,84,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_084.png
+00010007_085.png,Effusion,85,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_085.png
+00010007_086.png,No Finding,86,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_086.png
+00010007_087.png,Cardiomegaly|Effusion|Infiltration,87,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_087.png
+00010007_088.png,Effusion|Infiltration,88,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_088.png
+00010007_089.png,Effusion|Infiltration|Mass,89,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_089.png
+00010007_090.png,Atelectasis|Consolidation|Effusion,90,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_090.png
+00010007_091.png,Consolidation,91,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_091.png
+00010007_092.png,Effusion,92,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_092.png
+00010007_093.png,Effusion|Infiltration,93,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_093.png
+00010007_094.png,Consolidation|Effusion|Infiltration,94,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_094.png
+00010007_095.png,Effusion,95,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_095.png
+00010007_096.png,Atelectasis|Consolidation,96,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_096.png
+00010007_097.png,Atelectasis|Consolidation,97,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_097.png
+00010007_098.png,Infiltration,98,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_098.png
+00010007_099.png,No Finding,99,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_099.png
+00010007_100.png,Edema|Effusion,100,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_100.png
+00010007_101.png,Effusion,101,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_101.png
+00010007_102.png,No Finding,102,10007,58,M,AP,2048,2500,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_102.png
+00010007_103.png,Cardiomegaly,103,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_103.png
+00010007_104.png,Edema|Infiltration,104,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_104.png
+00010007_105.png,No Finding,105,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_105.png
+00010007_106.png,No Finding,106,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_106.png
+00010007_107.png,Effusion|Infiltration|Mass,107,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_107.png
+00010007_108.png,Infiltration,108,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_108.png
+00010007_109.png,Cardiomegaly|Effusion,109,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_109.png
+00010007_110.png,Effusion,110,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_110.png
+00010007_111.png,No Finding,111,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_111.png
+00010007_112.png,Consolidation|Effusion|Mass,112,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_112.png
+00010007_113.png,Infiltration,113,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_113.png
+00010007_114.png,No Finding,114,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_114.png
+00010007_115.png,No Finding,115,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_115.png
+00010007_116.png,No Finding,116,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_116.png
+00010007_117.png,Effusion|Infiltration,117,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_117.png
+00010007_118.png,Atelectasis|Consolidation,118,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_118.png
+00010007_119.png,Edema|Effusion,119,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_119.png
+00010007_120.png,Atelectasis|Consolidation|Effusion|Infiltration,120,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_120.png
+00010007_121.png,No Finding,121,10007,58,M,AP,2048,2500,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_121.png
+00010007_122.png,Effusion|Infiltration,122,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_122.png
+00010007_123.png,Consolidation|Effusion,123,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_123.png
+00010007_124.png,No Finding,124,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_124.png
+00010007_125.png,Effusion|Infiltration,125,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_125.png
+00010007_126.png,Effusion,126,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_126.png
+00010007_127.png,No Finding,127,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_127.png
+00010007_128.png,Effusion|Infiltration,128,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_128.png
+00010007_129.png,Consolidation,129,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_129.png
+00010007_130.png,Consolidation,130,10007,58,M,AP,2048,2500,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_130.png
+00010007_131.png,Cardiomegaly|Effusion,131,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_131.png
+00010007_132.png,No Finding,132,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_132.png
+00010007_133.png,Effusion|Pleural_Thickening,133,10007,58,M,AP,2048,2500,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_133.png
+00010007_134.png,No Finding,134,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_134.png
+00010007_135.png,Atelectasis|Consolidation|Infiltration,135,10007,58,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_135.png
+00010007_136.png,Infiltration|Pleural_Thickening,136,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_136.png
+00010007_137.png,No Finding,137,10007,59,M,AP,2048,2500,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_137.png
+00010007_138.png,Effusion|Infiltration,138,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_138.png
+00010007_139.png,Cardiomegaly|Effusion,139,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_139.png
+00010007_140.png,Atelectasis|Consolidation,140,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_140.png
+00010007_141.png,No Finding,141,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_141.png
+00010007_142.png,No Finding,142,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_142.png
+00010007_143.png,Effusion,143,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_143.png
+00010007_144.png,Effusion,144,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_144.png
+00010007_145.png,Effusion,145,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_145.png
+00010007_146.png,Infiltration,146,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_146.png
+00010007_147.png,Consolidation,147,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_147.png
+00010007_148.png,No Finding,148,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_148.png
+00010007_149.png,No Finding,149,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_149.png
+00010007_150.png,Atelectasis|Consolidation|Effusion|Infiltration,150,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_150.png
+00010007_151.png,Effusion|Infiltration,151,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_151.png
+00010007_152.png,Pleural_Thickening,152,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_152.png
+00010007_153.png,Cardiomegaly|Effusion,153,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_153.png
+00010007_154.png,Infiltration,154,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_154.png
+00010007_155.png,Atelectasis|Consolidation|Effusion|Infiltration,155,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_155.png
+00010007_156.png,Effusion,156,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_156.png
+00010007_157.png,Consolidation,157,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_157.png
+00010007_158.png,Atelectasis|Effusion|Fibrosis,158,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_158.png
+00010007_159.png,Effusion|Infiltration|Pleural_Thickening,159,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_159.png
+00010007_160.png,Infiltration,160,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_160.png
+00010007_161.png,Atelectasis,161,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_161.png
+00010007_162.png,Atelectasis|Effusion,162,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_162.png
+00010007_163.png,Effusion,163,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_163.png
+00010007_164.png,Atelectasis,164,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_164.png
+00010007_165.png,Cardiomegaly,165,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_165.png
+00010007_166.png,Infiltration|Pleural_Thickening,166,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_166.png
+00010007_167.png,No Finding,167,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_167.png
+00010007_168.png,Effusion,168,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_168.png
+00010007_169.png,Consolidation,169,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_169.png
+00010007_170.png,Pleural_Thickening,170,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_170.png
+00010007_171.png,No Finding,171,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_171.png
+00010007_172.png,Effusion,172,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_172.png
+00010007_173.png,Effusion,173,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_173.png
+00010007_174.png,Consolidation,174,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_174.png
+00010007_175.png,No Finding,175,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_175.png
+00010007_176.png,No Finding,176,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_176.png
+00010007_177.png,No Finding,177,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_177.png
+00010007_178.png,Effusion|Pneumothorax,178,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_178.png
+00010007_179.png,Atelectasis|Effusion,179,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_179.png
+00010007_180.png,Infiltration|Pleural_Thickening,180,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_180.png
+00010007_181.png,No Finding,181,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_181.png
+00010007_182.png,Consolidation,182,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_182.png
+00010007_183.png,Effusion|Infiltration,183,10007,59,M,AP,2500,2048,0.168,0.168,,/kaggle/input/data/images_005/images/00010007_183.png
