@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 
 
-class SiameseDatasetCovid19(data.Dataset):
+class SiameseDatasetSyntheticData(data.Dataset):
     def __init__(self, phase='testing', n_channels=3, n_samples=792294, transform=None, image_path='./',
                  save_path=None):
 
